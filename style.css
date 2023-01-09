@@ -166,3 +166,12 @@ a {
     padding: 30px;
     width: 50%;
 }
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 20px;
+    background-color: #c3e1e3;
+    text-align: center;
+}
